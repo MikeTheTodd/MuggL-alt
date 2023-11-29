@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael Todd
-- 👀 I’m interested in Coding and Creating Art
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning C++, JavaScript and Node.js
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me michaeltodd981@gmail.com
 
